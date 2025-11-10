@@ -10,6 +10,9 @@ public class C05KeywordStatic {
 	    static methods  (possible)
 	    static constructor (meaningless and impossible)
 
+
+		*** Outer class cannot be static, but inner class can be static (because inner class is also a member of the class)
+
   	> static when attached to a variable, a method or a block makes it the class variable, the class method
   	  and the class block.
   	  static variables/methods are accessed using ClassName.
