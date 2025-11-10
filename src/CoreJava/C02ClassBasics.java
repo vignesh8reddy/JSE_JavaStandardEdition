@@ -38,6 +38,7 @@ public class C02ClassBasics {
     2. Blocks
     3. Constructors
     4. Methods
+    5. inner class (A class can have another class as a member which is called inner class)
 
     > Within it's body, a class can have only above four.
     > It's not possible to have executable code within class body:
